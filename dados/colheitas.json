@@ -1,0 +1,11 @@
+[
+    {
+        "local": "Brasil",
+        "safra": "2024/225",
+        "metodo": "manual",
+        "produtividade": 30.0,
+        "area": 1000.0,
+        "perda_toneladas": 1500.0,
+        "prejuizo_R$": 375000.0
+    }
+]
